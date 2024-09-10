@@ -8,16 +8,16 @@
           <img src="Wisdom-Court/comingsoon2.webp" />
         </div>
         <div class="swiper-slide">
-          <img src="Listings/House3.jpg" />
+          <img src="Listings/House3.webp" />
         </div>
         <div class="swiper-slide">
           <img src="Wisdom-Court/comingsoon5.webp" />
         </div>
         <div class="swiper-slide">
-            <img src="Listings/House4.jpg" />
+            <img src="Listings/House4.webp" />
         </div>
         <div class="swiper-slide">
-          <img src="Listings/House2.jpg" />
+          <img src="Listings/House2.webp" />
         </div>
         <div class="swiper-slide">
           <img src="Wisdom-Court/comingsoon2.webp" />
@@ -26,7 +26,7 @@
             <img src="Wisdom-Court/comingsoon3.webp" />
         </div>
         <div class="swiper-slide">
-          <img src="Listings/House1.jpg" />
+          <img src="Listings/House1.webp" />
         </div>
       </div>
       <div class="swiper-button-next2"></div>
