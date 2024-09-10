@@ -49,7 +49,7 @@ import Twitter from '~/static/svg/twitter.vue';
                 </div>
                 <div class="emailfoot">
                 <h1>Email</h1>
-                <p>Ziaproperties100@gmail.com</p>
+                <p>ziaproperties100@gmail.com</p>
                 </div>
             </div> 
         </div>
