@@ -1,0 +1,148 @@
+[
+{
+    "id": 1,
+    "image": "Listings/comingsoon1.webp",
+    "location": "Phase 2, Lekki Gardens",
+    "description": "Wisdom Court Project",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦32,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 2,
+    "image": "Listings/Ikegun.webp",
+    "location": "Ikegun, Lagos",
+    "description": "PLOTS OF LAND AT IKEGUN",
+    "size": "600 square meters",
+    "price": "₦3,000,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 3,
+    "image": "Listings/House3.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦300,000,000",
+    "category": "Rent"
+  },
+  {
+    "id": 4,
+    "image": "Listings/House4.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦300,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 5,
+    "image": "Listings/House1.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦450,000,000",
+    "category": "Rent"
+  },
+  {
+    "id": 6,
+    "image": "Listings/House2.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦250,000,000",
+    "category": "Rent"
+  },
+  {
+    "id": 7,
+    "image": "Listings/House1.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦330,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 8,
+    "image": "Listings/Elerangbe.webp",
+    "location": "Elerangbe, Lagos",
+    "description": "PLOTS OF LAND AT ELERANGBE",
+    "size": "600 square meters",
+    "price": "₦5,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 9,
+    "image": "Listings/House2.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦300,000,000",
+    "category": "Rent"
+  },
+  {
+    "id": 10,
+    "image": "Listings/House2.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦450,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 11,
+    "image": "Listings/House3.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦250,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 12,
+    "image": "Listings/Akodo.webp",
+    "location": "Akodo, Lagos",
+    "description": "PLOTS OF LAND AT AKODO",
+    "size": "600 square meters",
+    "price": "₦20,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 13,
+    "image": "Listings/Sangotedo.webp",
+    "location": "Monastery Road, Sangotedo",
+    "description": "PLOTS OF LAND BEHIND MONASTERY ROAD",
+    "size": "600 square meters",
+    "price": "₦25,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 14,
+    "image": "Listings/House2.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦300,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 15,
+    "image": "Listings/House2.webp",
+    "location": "Banana Island, Lagos",
+    "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦450,000,000",
+    "category": "Rent"
+  }
+]
