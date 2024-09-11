@@ -41,13 +41,17 @@
       <div class="body">
       <div class="section2-container">
         <div class="section2">
+        <div class="autoShow">
         <LazyPropertieshome id="Properties" />
+        </div>
         <div class="wrapper">
     <div class="typing-demo">
       A fast growing <span>Real Estate Firm.</span>
     </div>
 </div>
+      <div class="autoShow">
         <Services id="services" />
+      </div>
       </div>
       </div>
       
@@ -130,7 +134,19 @@ export default {
 };
 </script>
 <style scoped>
-
+.autoShow {
+  animation: autoShowAnimation both;
+  animation-timeline: view(70% 5%)
+}
+@keyframes autoShowAnimation{
+  from{
+    opacity: 0;
+    transform: translateY(200px) scale(0.6);
+  }to{
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
 .loading-screen {
   position: fixed;
   top: 0;
