@@ -33,9 +33,9 @@ import Twitter from '~/static/svg/twitter.vue';
         </div>
         <div class="linksfoot">
             <h1 style="color: #12295300" >Hot Links</h1>
-            <router-link to="/" exact-active-class="active">Upcoming</router-link>
+            <router-link to="/Wisdom-Court" exact-active-class="active">Upcoming</router-link>
             <router-link to="/About-us" exact-active-class="active">Our Services</router-link>
-            <router-link to="#" exact-active-class="active">Rent</router-link>
+            <router-link to="/Property" exact-active-class="active">Buy</router-link>
         </div>
         <div class="contactfoot">
             <h1>Contact Info</h1>
