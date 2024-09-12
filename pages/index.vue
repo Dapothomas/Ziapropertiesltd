@@ -136,11 +136,11 @@ export default {
 <style scoped>
 .autoShow {
   animation: autoShowAnimation both;
-  animation-timeline: view(70% 5%)
+  animation-timeline: view(80% 5%)
 }
 @keyframes autoShowAnimation{
   from{
-    opacity: 0;
+    opacity: 0.8;
     transform: translateY(200px) scale(0.6);
   }to{
     opacity: 1;

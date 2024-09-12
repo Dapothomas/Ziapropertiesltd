@@ -41,9 +41,7 @@ export default {
         <div class="contactsym">
             <div class="contactbox">
                 <contactloc/>
-                <p> HFP Eastline Shopping
-                  Complex (block C1/069)
-                  Abraham Adesanya, Ajah
+                <p> HFP EASTLINE SHOPPING COMPLEX, BLOCK C1 (069/058), ABRAHAM ADESANYA, AJAH, LAGOS STATE.
                 </p>
             </div>
             <div class="contactbox">

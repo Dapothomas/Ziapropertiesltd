@@ -11,9 +11,9 @@
       </div>
 
       <div class="topsoc">
-        <a href=""><facebooktop/></a>
+        <a href="https://www.facebook.com/profile.php?id=61560778896841&mibextid=LQQJ4d"><facebooktop/></a>
         <a href="https://www.instagram.com/ziapropertieslimited/?utm_source=ig_embed&ig_rid=90c2eaf3-0233-4fe6-8987-1c4bfd41add3"><instagramtop/></a>
-        <a href=""><tiktoktop/></a>
+        <a href="https://www.tiktok.com/@zia.properties?_t=8pblM6UxjT4&_r=1"><tiktoktop/></a>
       </div>
     </div>
 

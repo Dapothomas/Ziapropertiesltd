@@ -18,9 +18,9 @@ import Twitter from '~/static/svg/twitter.vue';
             </p>
             <div class="socials">
                 <a href="https://www.instagram.com/ziapropertieslimited/?utm_source=ig_embed&ig_rid=90c2eaf3-0233-4fe6-8987-1c4bfd41add3"><Instagram/></a>
-                <a href=""><Twitter/></a>
-                <a href=""><Linkdin/></a>
-                <a href=""><Facebook/></a>
+                <a href="https://www.tiktok.com/@zia.properties?_t=8pblM6UxjT4&_r=1"><Twitter/></a>
+                <a href="mailto:Ziaproperties100@gmail.com"><Linkdin/></a>
+                <a href="https://www.facebook.com/profile.php?id=61560778896841&mibextid=LQQJ4d"><Facebook/></a>
             </div>
         </div>
         <div class="linksfoot">
@@ -39,17 +39,18 @@ import Twitter from '~/static/svg/twitter.vue';
         </div>
         <div class="contactfoot">
             <h1>Contact Info</h1>
-            <p>Eastline C069/058 Shopping Complex,<br>
-                 Abraham Adesanya, Ajah, Lagos, Lagos State
+            <p>HFP EASTLINE SHOPPING COMPLEX, <br> 
+                BLOCK C1 (069/058), ABRAHAM ADESANYA, AJAH, LAGOS STATE.
             </p>
             <div class="footrow">
                 <div class="phonefoot">
                 <h1>Phone Number</h1>
-                <p>08164256102</p>
+                <p><a href="tel:08164256102">08164256102</a></p>
+                <p><a href="tel:08104453342">08104453342</a></p>
                 </div>
                 <div class="emailfoot">
                 <h1>Email</h1>
-                <p>ziaproperties100@gmail.com</p>
+                <p><a href="mailto:Ziaproperties100@gmail.com">ziaproperties100@gmail.com</a></p>
                 </div>
             </div> 
         </div>
@@ -64,6 +65,10 @@ import Twitter from '~/static/svg/twitter.vue';
 </template>
 
 <style>
+.footrow a
+{
+    color: rgb(1, 5, 40);
+}
 .footerdown
 {
     background-color: var(--company-color2) ;
