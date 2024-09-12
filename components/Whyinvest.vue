@@ -35,7 +35,7 @@ import ButtonLink from './ButtonLink.vue';
           - 2 BEDROOM FLAT (12 Units)<br>
           - MINIFLAT (16 Units)
         </p>
-        <ButtonLink mainText="Subscribe Now" :withBg="true" :withoutBorder="true" :textMargin="true"  />
+        <router-link to="/Contact-us"><ButtonLink mainText="Subscribe Now" :withBg="true" :withoutBorder="true" :textMargin="true"  /></router-link>
       </div>
       </div>
       <div class="center-image">
