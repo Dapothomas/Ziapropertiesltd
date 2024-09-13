@@ -17,7 +17,7 @@
             <img src="Listings/House4.webp" />
         </div>
         <div class="swiper-slide">
-          <img src="Listings/House2.webp" />
+          <img src="Listings/Ogombo.webp" />
         </div>
         <div class="swiper-slide">
           <img src="Wisdom-Court/comingsoon2.webp" />

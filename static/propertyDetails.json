@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "image": "Listings/House2.webp",
+      "image": "Listings/Ogombo.webp",
       "images": ["Listings/House2File/Ogongbo1.webp", "Listings/House2File/Ogongbo2.webp", "Listings/House2File/Ogongbo3.webp", "Listings/House2File/Ogongbo4.webp", "Listings/House2File/Ogongbo5.webp", "Listings/House2File/Ogongbo6.webp", "Listings/House2File/Ogongbo7.webp", "Listings/House2File/Ogongbo8.webp", "Listings/House2File/Ogongbo9.webp", "Listings/House2File/Ogongbo10.webp"],
       "name": "Fully Furnished Smart Home",
       "location": "Ogombo",

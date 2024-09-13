@@ -61,7 +61,7 @@ watch(selectedCategory, (newCategory) => {
         </div>
         </template>   
         <template v-if="property.category === 'Buy' || property.category === 'Rent'" v-slot:bed>
-          <div class="flexsvg">
+          <div class="flexsvg2">
             <bed/>
             <p class="houseDetails">{{ property.bed }}</p>
           </div>
@@ -84,6 +84,20 @@ watch(selectedCategory, (newCategory) => {
 </template>
 
 <style>
+.flexsvg2
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: -10px;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.flexsvg
+{
+  display: flex;
+  flex-direction: row;
+}
 .cover
 {
   max-width: 770px;
