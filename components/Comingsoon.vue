@@ -29,8 +29,8 @@ import security from '~/static/svg/security.vue';
                 <h1 class="wisfeath2">Wisdom Court</h1> 
             <div class="wisdomtyes">
               <div class="typewisp">
-                <li>3 BEDROOM TERRACE DUPLEX (10 Units)</li><br>
-                <li>2 BEDROOM TERRACE DUPLEX (6 Units)</li><br>
+                <li>3 BEDROOM TERRACE DUPLEX/BQ (10 Units)</li><br>
+                <li>2 BEDROOM TERRACE DUPLEX/BQ (6 Units)</li><br>
                 <li>2 BEDROOM FLAT (12 Units)</li><br>
                 <li>MINIFLAT (16 Units)</li>
                </div>

@@ -17,13 +17,13 @@
         </thead>
         <tbody>
           <tr>
-            <td>3 BEDROOM TERRACE  </td>
+            <td>3 BEDROOM TERRACE/BQ  </td>
             <td>8</td>
             <td>N73M</td>
             <td>21M</td>
           </tr>
           <tr>
-            <td>2 BEDROOM TERRACE </td>
+            <td>2 BEDROOM TERRACE/BQ </td>
             <td>8</td>
             <td>N65M</td>
             <td>19.5M</td>

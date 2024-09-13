@@ -30,8 +30,8 @@ import ButtonLink from './ButtonLink.vue';
                  constant water supply, top-notch security, and unmatched serenity—all 
                  designed for your comfort and peace of mind.</p>
                  <h2>Property Types</h2>
-        <p class="right-p2" :style="{ marginBottom: '40px'}">- 3 BEDROOM TERRACE DUPLEX (10 Units)<br>
-         - 2 BEDROOM TERRACE DUPLEX (6 Units)<br>
+        <p class="right-p2" :style="{ marginBottom: '40px'}">- 3 BEDROOM TERRACE DUPLEX/BQ (10 Units)<br>
+         - 2 BEDROOM TERRACE DUPLEX/BQ (6 Units)<br>
           - 2 BEDROOM FLAT (12 Units)<br>
           - MINIFLAT (16 Units)
         </p>
