@@ -311,7 +311,7 @@ export default {
 {
   display: flex;
   align-items: center;
-  max-width: 300px;
+  max-width: 400px;
   gap: 10px;
 }
 .locationflex p
