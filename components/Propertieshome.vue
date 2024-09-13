@@ -57,7 +57,7 @@ const firstThreeProperties = computed(() => properties.value.slice(0, 3));
         </div>
         </template>   
         <template v-if="property.category === 'Buy' || property.category === 'Rent'" v-slot:bed>
-          <div class="flexsvg">
+          <div class="flexsvg2">
             <bed/>
             <p class="houseDetails">{{ property.bed }}</p>
           </div>
@@ -79,6 +79,15 @@ const firstThreeProperties = computed(() => properties.value.slice(0, 3));
   </div>
 </template>
 <style>
+.flexsvg2
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: -10px;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
 @media (max-width: 768px) {
   .properties {
     margin-top: 50px;
