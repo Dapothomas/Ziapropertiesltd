@@ -97,6 +97,9 @@ watch(selectedCategory, (newCategory) => {
 {
   display: flex;
   flex-direction: row;
+  gap: 5px; 
+  justify-content: center;
+  align-items: center;
 }
 .cover
 {

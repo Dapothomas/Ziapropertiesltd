@@ -16,10 +16,10 @@
   import { onMounted } from 'vue';
   
   const slides = [
-    { image: '/Wisdom-Court/comingsoon1.webp'},
-    { image: '/Wisdom-Court/comingsoon5.webp'},
-    { image: '/Wisdom-Court/comingsoon2.webp' },
-    { image: '/Wisdom-Court/comingsoon3.webp'},
+    { image: '/Wisdom-Court/2bedterrace.webp'},
+    { image: '/Wisdom-Court/aerialview.webp'},
+    { image: '/Wisdom-Court/streetview.webp' },
+    { image: '/Wisdom-Court/streetview2.webp'},
     { image: '/Wisdom-Court/comingsoon7.webp'},
   ];
   
