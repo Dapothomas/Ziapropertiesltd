@@ -27,7 +27,7 @@ import Twitter from '~/static/svg/twitter.vue';
             <h1>Hot Links</h1>
             <router-link to="/" exact-active-class="active">Home</router-link>
             <router-link to="/Property" exact-active-class="active">Properties</router-link>
-            <router-link to="/Property" exact-active-class="active">Projects</router-link>
+            <router-link to="/Wisdom-Court" exact-active-class="active">Projects</router-link>
             <router-link to="/about-us" exact-active-class="active">About us</router-link>
             <router-link to="/contact-us" exact-active-class="active">Contact us</router-link>
         </div>

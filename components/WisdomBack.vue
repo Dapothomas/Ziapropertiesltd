@@ -5,7 +5,7 @@
         <h1>Wisdom <br><span>Court Project</span> </h1>
         <div class="wisdomloc">
             <locationproj/>
-            <p>Lekki Phase II, Ajah, Lagos</p>
+            <p>Opposite Phase 2, Lekki Gardens</p>
         </div>     
     </div>
       </div>

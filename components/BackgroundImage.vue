@@ -1,7 +1,7 @@
 <template>
     <section class="intro-section">
       <div class="intro-content" ref="backtext">
-        <h1>Find A House<br>That <span class="span1">Suits</span><span class="backh1">You</span></h1>
+        <h1>Find A Property<br>That <span class="span1">Suits</span><span class="backh1">You</span></h1>
         <p>Want to find a home? We are ready to help you find <br>one that suits your lifestyle and needs.</p>
         <router-link to="/Property">
                 <ButtonLink mainText="Explore" :withoutBorder="true" />

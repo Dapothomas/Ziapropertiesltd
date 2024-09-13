@@ -3,12 +3,12 @@
       "id": 1,
       "image": "Listings/comingsoon1.webp",
       "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
-      "name": "Wisdom Court Project",
-      "location": "Phase 2, Lekki Gardens",
-      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind.",
+      "name": "3 Bedroom Terrace Duplex - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 24.9 million naira, you can secure your dream property and spread the balance over flexible payment plans",
       "bed": "3 bedrooms",
       "shower": "3 bathrooms",
-      "price": "From ₦32,000,000",
+      "price": "₦80,000,000",
       "category": "Buy"
     },
     {
@@ -22,7 +22,54 @@
       "video": "Listings/Ikegun/Ikegun-web.mp4",
       "category": "Land"
     },
-    
+    {
+      "id": 3,
+      "image": "Listings/House2.webp",
+      "images": ["Listings/House2File/Ogongbo1.webp", "Listings/House2File/Ogongbo2.webp", "Listings/House2File/Ogongbo3.webp", "Listings/House2File/Ogongbo4.webp", "Listings/House2File/Ogongbo5.webp", "Listings/House2File/Ogongbo6.webp", "Listings/House2File/Ogongbo7.webp", "Listings/House2File/Ogongbo8.webp", "Listings/House2File/Ogongbo9.webp", "Listings/House2File/Ogongbo10.webp"],
+      "name": "Fully Furnished Smart Home",
+      "location": "Ogombo",
+      "description": "Experience living in a brand new, luxurious, fully furnished 3 bedroom duplex at Ogombo with features such as, - Inbuilt Speakers, 24/7 Security, POP Ceiling, Water Heater, Water Treatment, 24/7 Power, Walk-in shower, Fully fitted kitchen, Oven, ⁠Motion sensor light and many more! Don't miss out of this opportunity to own a stunning home fully equipped for comfort. Contact us today to schedule a viewing and make this building your home.",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦180,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 4,
+      "image": "Listings/comingsoon5.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "2 Bedroom Terrace Duplex - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 21 million naira, you can secure your dream property and spread the balance over flexible payment plans.",
+      "bed": "2 bedrooms",
+      "shower": "2 bathrooms",
+      "price": "₦70,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 5,
+      "image": "Listings/comingsoon7.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "2 Bedroom Flat - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 18 million naira, you can secure your dream property and spread the balance over flexible payment plans",
+      "bed": "2 bedrooms",
+      "shower": "2 bathrooms",
+      "price": "₦60,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 6,
+      "image": "Listings/comingsoon6.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "1 Bedroom Flat - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 10.5 million naira, you can secure your dream property and spread the balance over flexible payment plans",
+      "bed": "1 bedrooms",
+      "shower": "1 bathrooms",
+      "price": "₦35,000,000",
+      "category": "Buy"
+    },
     {
       "id": 8,
       "image": "Listings/Elerangbe.webp",

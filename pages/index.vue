@@ -57,7 +57,9 @@
       
       
       <div class="section4">
+        <div class="autoShow">
         <Aboutus />
+      </div>
       </div>
       <div class="sectionbtw" :style="{ marginTop: '50px' }">
         <Agentshome />

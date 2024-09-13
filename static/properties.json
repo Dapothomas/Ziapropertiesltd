@@ -2,11 +2,11 @@
 {
     "id": 1,
     "image": "Listings/comingsoon1.webp",
-    "location": "Phase 2, Lekki Gardens",
+    "location": "Opposite Phase 2, Lekki Gardens",
     "description": "Wisdom Court Project",
     "bed": "3 bedrooms",
     "shower": "3 bathrooms",
-    "price": "₦32,000,000",
+    "price": "₦80,000,000",
     "category": "Buy"
   },
   {
@@ -17,6 +17,46 @@
     "size": "600 square meters",
     "price": "₦3,000,000,000",
     "category": "Land"
+  },
+  {
+    "id": 3,
+    "image": "Listings/House2.webp",
+    "location": "Ogombo",
+    "description": "Fully Furnished Smart Home",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦180,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 4,
+    "image": "Listings/comingsoon5.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "2 Bedroom Terrace Duplex - Wisdom Court",
+    "bed": "2 bedrooms",
+    "shower": "2 bathrooms",
+    "price": "₦70,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 5,
+    "image": "Listings/comingsoon7.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "2 Bedroom Flat - Wisdom Court",
+    "bed": "2 bedrooms",
+    "shower": "2 bathrooms",
+    "price": "₦60,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 6,
+    "image": "Listings/comingsoon6.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "1 Bedroom Flat - Wisdom Court",
+    "bed": "1 bedrooms",
+    "shower": "1 bathrooms",
+    "price": "₦35,000,000",
+    "category": "Buy"
   },
   {
     "id": 8,
