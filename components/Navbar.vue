@@ -179,7 +179,17 @@ export default {
   display: flex;
   align-items: center;
 }
-
+@media (max-width:1000px){
+  .collapsed-project{
+    padding-inline: 10px;
+    padding-top: 10px;
+  }
+}
+@media (min-width:1000px){
+  .collapsed-project{
+    padding: 10px;
+  }
+}
 .collapsed-project {
     visibility: hidden;
     position: absolute;
@@ -188,7 +198,6 @@ export default {
     opacity: 1;
     transition: all 0.3s ease-in-out;
     left: -20px;
-    padding: 10px;
     border-radius: 5px;
     width: 200px;
     background-color: rgb(255, 255, 255);
