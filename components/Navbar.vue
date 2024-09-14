@@ -99,6 +99,11 @@ export default {
 
 
 <style>
+.collapsed-project a:hover::after
+{
+  width: 0%;
+  background-color: #b7b7b707;
+}
 .phonetop a
 {
   color: rgb(3, 3, 64);
@@ -149,7 +154,13 @@ export default {
   /* border: 0.1px solid rgba(241, 241, 241, 0.452); */
   margin: 0;
   width: 100%;
+  border-radius: 5px;
   background-color: #ffffff;
+}
+.innercollapse:hover
+{
+  background-color: rgba(225, 225, 225, 0.108);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 2px;
 }
 .droplink
 {
@@ -178,8 +189,11 @@ export default {
     opacity: 0;
     transition: all 0.3s ease-in-out;
     left: -20px;
-    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
     background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 2px;
     flex-direction: column;
     border-top: 3px solid var(--company-color);
     /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
