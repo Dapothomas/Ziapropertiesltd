@@ -102,8 +102,13 @@ export default {
 .collapsed-project a:hover::after
 {
   width: 0%;
-  background-color: #b7b7b700;
+  background-color: var(--company-color);
 }
+/* .collapsed-project a:hover
+{
+  background-color: var(--company-color2);
+  color: #ffffff;
+} */
 .phonetop a
 {
   color: rgb(3, 3, 64);
@@ -159,7 +164,8 @@ export default {
 }
 .innercollapse:hover
 {
-  background-color: rgba(225, 225, 225, 0.318);
+  background-color: rgba(226, 226, 226, 0.496);
+
 }
 .droplink
 {

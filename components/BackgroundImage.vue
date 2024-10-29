@@ -2,7 +2,7 @@
     <section class="intro-section">
       <div class="intro-content" ref="backtext">
         <h1>Find A Property<br>That <span class="span1">Suits</span><span class="backh1">You</span></h1>
-        <p>Want to find a home? We are ready to help you find <br>one that suits your lifestyle and needs.</p>
+        <p>With commitment to transparency, we bring <br>your dreams to reality.</p>
         <router-link to="/Property">
                 <ButtonLink mainText="Explore" :withoutBorder="true" />
               </router-link>
