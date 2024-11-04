@@ -19,26 +19,26 @@
           <tr>
             <td>3 BEDROOM TERRACE/BQ  </td>
             <td>8</td>
-            <td>N73M</td>
-            <td>21M</td>
+            <td>N93M</td>
+            <td>27.9M</td>
           </tr>
           <tr>
             <td>2 BEDROOM TERRACE/BQ </td>
             <td>8</td>
-            <td>N65M</td>
-            <td>19.5M</td>
+            <td>N83M</td>
+            <td>24.9M</td>
           </tr>
           <tr>
             <td>2 BED FLAT </td>
             <td>16</td>
-            <td>N55M</td>
-            <td>16.5M</td>
+            <td>N65M</td>
+            <td>19.5M</td>
           </tr>
           <tr>
             <td>1 BED FLAT </td>
             <td>12</td>
-            <td>N32M</td>
-            <td>9.6M</td>
+            <td>N40M</td>
+            <td>12M</td>
           </tr>
         </tbody>
       </table>
