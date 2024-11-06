@@ -32,8 +32,8 @@ import ButtonLink from './ButtonLink.vue';
                  <h2>Property Types</h2>
         <p class="right-p2" :style="{ marginBottom: '40px'}">- 3 BEDROOM TERRACE DUPLEX/BQ (10 Units)<br>
          - 2 BEDROOM TERRACE DUPLEX/BQ (6 Units)<br>
-          - 2 BEDROOM FLAT (12 Units)<br>
-          - MINIFLAT (16 Units)
+          - 2 BEDROOM FLAT (16 Units)<br>
+          - MINIFLAT (12 Units)
         </p>
         <router-link to="/Contact-us"><ButtonLink mainText="Subscribe Now" :withBg="true" :withoutBorder="true" :textMargin="true"  /></router-link>
       </div>

@@ -1,7 +1,7 @@
 <template>
     <div class="table-container">
         <h2>Payment Plans</h2>
-        <p class="pre-p">(Pre-Launch Price)</p>
+        <!-- <p class="pre-p">(Pre-Launch Price)</p> -->
         <div class="initial"><p class="initialp">30% INITIAL DEPOSIT!</p></div>
         <div class="bottom-table">
             <div class="initial2"><p class="initialp2">Payment Category :  3 months | 6 months | 12 months | 18 months</p></div>
@@ -18,13 +18,13 @@
         <tbody>
           <tr>
             <td>3 BEDROOM TERRACE/BQ  </td>
-            <td>8</td>
+            <td>10</td>
             <td>N93M</td>
             <td>27.9M</td>
           </tr>
           <tr>
             <td>2 BEDROOM TERRACE/BQ </td>
-            <td>8</td>
+            <td>6</td>
             <td>N83M</td>
             <td>24.9M</td>
           </tr>

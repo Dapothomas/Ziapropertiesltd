@@ -31,8 +31,8 @@ import security from '~/static/svg/security.vue';
               <div class="typewisp">
                 <li>3 BEDROOM TERRACE DUPLEX/BQ (10 Units)</li><br>
                 <li>2 BEDROOM TERRACE DUPLEX/BQ (6 Units)</li><br>
-                <li>2 BEDROOM FLAT (12 Units)</li><br>
-                <li>MINIFLAT (16 Units)</li>
+                <li>2 BEDROOM FLAT (16 Units)</li><br>
+                <li>MINIFLAT (12 Units)</li>
                </div>
                </div>
               <div class="wisfeat">
